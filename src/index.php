@@ -9,9 +9,9 @@
    
    <?php
 
-        echo "<h1>Hello, World!!!<h1>";
+        echo ("<h1>Hello, World!!!<h1>");
 
-        include_once ("main.php");
+        include_once('main.php');
     ?>
 
 </body>
